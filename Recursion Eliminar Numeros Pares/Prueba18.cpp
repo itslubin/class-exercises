@@ -1,6 +1,4 @@
 
-// Autor/a: Lubin Ye
-// email: lubinye@ucm.es
 // Nombre del problema: Eliminar los digitos pares de un numero
 
 
